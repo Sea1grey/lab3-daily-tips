@@ -1,8 +1,34 @@
 <resources>
     <string name="app_name">DailyTips</string>
+
     <string name="tip1_title">Начни с малого</string>
     <string name="tip1_desc">Сделай одно полезное действие</string>
 
     <string name="tip2_title">Пей воду</string>
     <string name="tip2_desc">Выпей стакан воды утром</string>
+
+    <string name="tip3_title">Убери лишнее</string>
+    <string name="tip3_desc">Очисти пространство вокруг себя</string>
+
+    <string name="tip4_title">Не спеши</string>
+    <string name="tip4_desc">Делай все чуть медленнее</string>
+
+    <string name="tip5_title">Прогулка</string>
+    <string name="tip5_desc">Выйди на улицу хотя бы на 10 минут</string>
+
+    <string name="tip6_title">Отложи телефон</string>
+    <string name="tip6_desc">1 час без телефона</string>
+
+    <string name="tip7_title">Сон важен</string>
+    <string name="tip7_desc">Ляг спать пораньше</string>
+
+    <string name="tip8_title">Список дел</string>
+    <string name="tip8_desc">Запиши 3 задачи на день</string>
+
+    <string name="tip9_title">Скажи спасибо</string>
+    <string name="tip9_desc">Поблагодари кого-то</string>
+
+    <string name="tip10_title">Начни с малого</string>
+    <string name="tip10_desc">Сделай одно полезное действие</string>
+
 </resources>
