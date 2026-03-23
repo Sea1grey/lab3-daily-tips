@@ -7,6 +7,7 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
+import com.bumptech.glide.Glide
 
 class TipAdapter(private val tips: List<Tip>) :
     RecyclerView.Adapter<TipAdapter.TipViewHolder>() {
@@ -18,6 +19,7 @@ class TipAdapter(private val tips: List<Tip>) :
         val description: TextView = itemView.findViewById(R.id.tipDescription)
 
         private var currentTip: Tip? = null
+
 
         init {
             itemView.setOnClickListener {
@@ -39,8 +41,12 @@ class TipAdapter(private val tips: List<Tip>) :
             image.setImageResource(tip.imageResId)
             day.text = "Day ${tip.day}"
             title.setText(tip.titleResId)
-            // ВАЖНО: В списке показываем КОРОТКОЕ описание
             description.setText(tip.shortDescResId)
+            Glide.with(itemView.context)
+                .load(tip.imageResId)
+                .centerCrop()
+                .placeholder(R.drawable.ic_launcher_background)
+                .into(image)
         }
     }
 
@@ -55,4 +61,5 @@ class TipAdapter(private val tips: List<Tip>) :
     }
 
     override fun getItemCount(): Int = tips.size
+
 }
