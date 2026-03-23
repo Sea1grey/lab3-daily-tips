@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">DailyTips</string>
+    <string name="tip1_title">Начни с малого</string>
+    <string name="tip1_desc">Сделай одно полезное действие</string>
+
+    <string name="tip2_title">Пей воду</string>
+    <string name="tip2_desc">Выпей стакан воды утром</string>
 </resources>
