@@ -1,5 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">30 Days of Self-Care</string>
+    <string name="app_name">30 дней саморазвития</string>
 
     <string name="day_prefix">День %1$d</string>
 
