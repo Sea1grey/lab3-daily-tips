@@ -11,7 +11,6 @@ import androidx.recyclerview.widget.RecyclerView
 class TipAdapter(private val tips: List<Tip>) :
     RecyclerView.Adapter<TipAdapter.TipViewHolder>() {
 
-    // ViewHolder теперь "умный": он знает, какой объект Tip в нем лежит
     class TipViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
         val image: ImageView = itemView.findViewById(R.id.tipImage)
         val day: TextView = itemView.findViewById(R.id.tipDay)
@@ -26,7 +25,8 @@ class TipAdapter(private val tips: List<Tip>) :
                     val context = itemView.context
                     val intent = Intent(context, DetailActivity::class.java).apply {
                         putExtra("TITLE_RES_ID", tip.titleResId)
-                        putExtra("DESC_RES_ID", tip.descriptionResId)
+                        // ВАЖНО: Передаем ПОЛНОЕ описание для экрана деталей
+                        putExtra("DESC_RES_ID", tip.fullDescResId)
                         putExtra("IMAGE_RES_ID", tip.imageResId)
                     }
                     context.startActivity(intent)
@@ -39,7 +39,8 @@ class TipAdapter(private val tips: List<Tip>) :
             image.setImageResource(tip.imageResId)
             day.text = "Day ${tip.day}"
             title.setText(tip.titleResId)
-            description.setText(tip.descriptionResId)
+            // ВАЖНО: В списке показываем КОРОТКОЕ описание
+            description.setText(tip.shortDescResId)
         }
     }
 

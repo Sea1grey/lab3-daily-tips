@@ -1,34 +1,124 @@
 <resources>
-    <string name="app_name">DailyTips</string>
+    <string name="app_name">30 Days of Self-Care</string>
 
     <string name="tip1_title">Начни с малого</string>
-    <string name="tip1_desc">Сделай одно полезное действие</string>
+    <string name="tip1_short">Сделай одно полезное действие утром.</string>
+    <string name="tip1_full">Заправь кровать сразу после пробуждения. Это маленькое достижение создаст ощущение порядка и дисциплины на весь оставшийся день.</string>
 
-    <string name="tip2_title">Пей воду</string>
-    <string name="tip2_desc">Выпей стакан воды утром</string>
+    <string name="tip2_title">Гидратация</string>
+    <string name="tip2_short">Выпей стакан воды натощак.</string>
+    <string name="tip2_full">Стакан чистой воды помогает организму проснуться, запускает метаболизм и восполняет дефицит влаги после ночного сна.</string>
 
-    <string name="tip3_title">Убери лишнее</string>
-    <string name="tip3_desc">Очисти пространство вокруг себя</string>
+    <string name="tip3_title">Цифровой детокс</string>
+    <string name="tip3_short">Час без гаджетов после сна.</string>
+    <string name="tip3_full">Не проверяй соцсети в первый час бодрствования. Это поможет тебе сфокусироваться на своих мыслях, а не на чужом контенте.</string>
 
-    <string name="tip4_title">Не спеши</string>
-    <string name="tip4_desc">Делай все чуть медленнее</string>
+    <string name="tip4_title">Планирование</string>
+    <string name="tip4_short">Запиши 3 главные задачи дня.</string>
+    <string name="tip4_full">Фокусировка на трех ключевых целях помогает не распыляться на мелочи и чувствовать прогресс в конце дня.</string>
 
     <string name="tip5_title">Прогулка</string>
-    <string name="tip5_desc">Выйди на улицу хотя бы на 10 минут</string>
+    <string name="tip5_short">Выйди на улицу на 15 минут.</string>
+    <string name="tip5_full">Свежий воздух и естественный свет снижают уровень стресса и помогают «перезагрузить» мозг во время работы.</string>
 
-    <string name="tip6_title">Отложи телефон</string>
-    <string name="tip6_desc">1 час без телефона</string>
+    <string name="tip6_title">Осанка</string>
+    <string name="tip6_short">Следи за спиной весь день.</string>
+    <string name="tip6_full">Прямая осанка влияет не только на здоровье, но и на твою уверенность в себе и уровень энергии.</string>
 
-    <string name="tip7_title">Сон важен</string>
-    <string name="tip7_desc">Ляг спать пораньше</string>
+    <string name="tip7_title">Благодарность</string>
+    <string name="tip7_short">Запиши 3 вещи, за которые ты благодарен.</string>
+    <string name="tip7_full">Практика благодарности приучает мозг замечать позитивные моменты, что значительно улучшает общее настроение.</string>
 
-    <string name="tip8_title">Список дел</string>
-    <string name="tip8_desc">Запиши 3 задачи на день</string>
+    <string name="tip8_title">Чтение</string>
+    <string name="tip8_short">Прочитай 10 страниц книги.</string>
+    <string name="tip8_full">Постоянное чтение расширяет кругозор и тренирует концентрацию, которую мы теряем из-за коротких роликов в сети.</string>
 
-    <string name="tip9_title">Скажи спасибо</string>
-    <string name="tip9_desc">Поблагодари кого-то</string>
+    <string name="tip9_title">Тишина</string>
+    <string name="tip9_short">Проведи 5 минут в полной тишине.</string>
+    <string name="tip9_full">Просто посиди с закрытыми глазами. Это снижает сенсорную перегрузку и успокаивает нервную систему.</string>
 
-    <string name="tip10_title">Начни с малого</string>
-    <string name="tip10_desc">Сделай одно полезное действие</string>
+    <string name="tip10_title">Порядок в файлах</string>
+    <string name="tip10_short">Очисти рабочий стол компьютера.</string>
+    <string name="tip10_full">Цифровой беспорядок мешает концентрации так же сильно, как и физический. Удали ненужные файлы.</string>
+
+    <string name="tip11_title">Глубокое дыхание</string>
+    <string name="tip11_short">Сделай 10 осознанных вдохов.</string>
+    <string name="tip11_full">Когда чувствуешь напряжение, сделай глубокий вдох носом и медленный выдох ртом. Это мгновенно снижает пульс.</string>
+
+    <string name="tip12_title">Новый навык</string>
+    <string name="tip12_short">Узнай что-то новое за 10 минут.</string>
+    <string name="tip12_full">Посмотри обучающее видео или прочитай статью на тему, в которой ты совсем не разбираешься.</string>
+
+    <string name="tip13_title">Минимализм</string>
+    <string name="tip13_short">Выбрось одну ненужную вещь.</string>
+    <string name="tip13_full">Избавление от старого освобождает место для нового. Начни с одного сломанного предмета или чека.</string>
+
+    <string name="tip14_title">Комплимент</string>
+    <string name="tip14_short">Скажи что-то приятное другому.</string>
+    <string name="tip14_full">Искренний комплимент коллеге или близкому человеку улучшает атмосферу и возвращается к тебе позитивом.</string>
+
+    <string name="tip15_title">Фруктовый день</string>
+    <string name="tip15_short">Замени сладости фруктами.</string>
+    <string name="tip15_full">Натуральный сахар дает более стабильную энергию без резких спадов настроения, как после конфет.</string>
+
+    <string name="tip16_title">Отказ от многозадачности</string>
+    <string name="tip16_short">Делай только одно дело за раз.</string>
+    <string name="tip16_full">Многозадачность — это миф. Переключаясь между делами, ты тратишь больше времени и быстрее устаешь.</string>
+
+    <string name="tip17_title">Уход за кожей</string>
+    <string name="tip17_short">Используй увлажняющий крем.</string>
+    <string name="tip17_full">Забота о теле — это проявление любви к себе. Простая рутина поможет чувствовать себя лучше.</string>
+
+    <string name="tip18_title">Ранний отбой</string>
+    <string name="tip18_short">Ляг спать на 30 минут раньше.</string>
+    <string name="tip18_full">Дополнительные полчаса сна существенно влияют на когнитивные способности и скорость принятия решений.</string>
+
+    <string name="tip19_title">Музыка для души</string>
+    <string name="tip19_short">Послушай любимый альбом целиком.</string>
+    <string name="tip19_full">Музыка способна менять наше эмоциональное состояние. Погрузись в звуки, не отвлекаясь на другие дела.</string>
+
+    <string name="tip20_title">Зелень в рационе</string>
+    <string name="tip20_short">Добавь овощи в каждый прием пищи.</string>
+    <string name="tip20_full">Витамины и клетчатка улучшают пищеварение и дают чувство легкости в течение дня.</string>
+
+    <string name="tip21_title">Анализ дня</string>
+    <string name="tip21_short">Вспомни лучший момент дня.</string>
+    <string name="tip21_full">Перед сном подумай, что сегодня принесло тебе радость. Это программирует мозг на позитивное мышление.</string>
+
+    <string name="tip22_title">Отказ от критики</string>
+    <string name="tip22_short">Проживи день без жалоб.</string>
+    <string name="tip22_full">Попробуй замечать возможности там, где раньше видел проблемы. Не критикуй себя и окружающих.</string>
+
+    <string name="tip23_title">Творчество</string>
+    <string name="tip23_short">Сделай что-то своими руками.</string>
+    <string name="tip23_full">Рисование, готовка или сборка конструктора развивают мелкую моторику и дают отдых аналитическому уму.</string>
+
+    <string name="tip24_title">Визуализация</string>
+    <string name="tip24_short">Представь свою цель достигнутой.</string>
+    <string name="tip24_full">Потрать 5 минут на детальное представление успеха. Это повышает мотивацию двигаться к реальным действиям.</string>
+
+    <string name="tip25_title">Помощь другим</string>
+    <string name="tip25_short">Сделай небольшое доброе дело.</string>
+    <string name="tip25_full">Придержи дверь, помоги с сумкой или отправь донат. Помогая другим, мы чувствуем свою значимость.</string>
+
+    <string name="tip26_title">Растяжка</string>
+    <string name="tip26_short">Сделай легкую разминку тела.</string>
+    <string name="tip26_full">Растяжка мышц снимает зажимы, которые накапливаются из-за сидячего образа жизни и стресса.</string>
+
+    <string name="tip27_title">Улыбка</string>
+    <string name="tip27_short">Улыбнись своему отражению.</string>
+    <string name="tip27_full">Даже «принудительная» улыбка заставляет мозг вырабатывать эндорфины. Проверь на себе!</string>
+
+    <string name="tip28_title">Отказ от сахара</string>
+    <string name="tip28_short">Попробуй чай без сахара.</string>
+    <string name="tip28_full">Почувствуй настоящий вкус напитка. Маленькие ограничения тренируют силу воли.</string>
+
+    <string name="tip29_title">Мечты</string>
+    <string name="tip29_short">Запиши 10 своих желаний.</string>
+    <string name="tip29_full">Часто мы забываем, чего хотим на самом деле. Позволь себе помечтать без ограничений «как это сделать».</string>
+
+    <string name="tip30_title">Итоги месяца</string>
+    <string name="tip30_short">Похвали себя за пройденный путь.</string>
+    <string name="tip30_full">Ты молодец! Ты посвятил 30 дней саморазвитию. Оцени, какие привычки тебе понравились больше всего, и оставь их с собой.</string>
 
 </resources>
