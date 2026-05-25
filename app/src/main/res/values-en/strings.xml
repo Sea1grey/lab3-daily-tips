@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">30 Days of Self-Care</string>
+    <string name="day_prefix">Day %1$d</string>
+
+    <string name="tip1_title">Start Small</string>
+    <string name="tip1_short">Make your bed in the morning.</string>
+    <string name="tip1_full">Start your day with a small victory. Making your bed creates a sense of order and discipline that carries through the rest of your day.</string>
+
+    <string name="tip2_title">Hydration</string>
+    <string name="tip2_short">Drink a glass of water after waking up.</string>
+    <string name="tip2_full">Water helps your body wake up, starts your metabolism, and replenishes moisture lost during sleep. Your brain will thank you!</string>
+
+    <string name="tip3_title">Digital Detox</string>
+    <string name="tip3_short">No phone for the first 30 minutes.</string>
+    <string name="tip3_full">Avoid checking social media or emails immediately after waking up. Give your mind a chance to wake up without external stress.</string>
+
+    <string name="tip4_title">Daily Planning</string>
+    <string name="tip4_short">Write down 3 main goals for the day.</string>
+    <string name="tip4_full">Focusing on just three important tasks prevents burnout and helps you stay productive throughout the day.</string>
+
+    <string name="tip5_title">Fresh Air</string>
+    <string name="tip5_short">Take a 15-minute walk.</string>
+    <string name="tip5_full">Physical activity and fresh air improve blood circulation and boost your mood. Even a short walk makes a difference.</string>
+
+    <string name="tip6_title">Healthy Snack</string>
+    <string name="tip6_short">Replace sweets with fruit.</string>
+    <string name="tip6_full">Fruits provide natural energy and vitamins without the "sugar crash" that comes from processed sweets.</string>
+
+    <string name="tip7_title">Gratitude</string>
+    <string name="tip7_short">Write down 3 things you are grateful for.</string>
+    <string name="tip7_full">Practicing gratitude rewires your brain to focus on the positive aspects of life, reducing stress and anxiety.</string>
+
+    <string name="tip8_title">Post Check</string>
+    <string name="tip8_short">Check your posture.</string>
+    <string name="tip8_full">Sit up straight! Good posture improves breathing, confidence, and prevents long-term back pain.</string>
+
+    <string name="tip9_title">Reading</string>
+    <string name="tip9_short">Read 10 pages of a book.</string>
+    <string name="tip9_full">Regular reading expands your vocabulary, improves focus, and is a great way to learn something new every day.</string>
+
+    <string name="tip10_title">Deep Breathing</string>
+    <string name="tip10_short">Do 5 minutes of breathing exercises.</string>
+    <string name="tip10_full">Slow, deep breaths signal your nervous system to calm down. It\'s the quickest way to manage sudden stress.</string>
+
+    <string name="tip11_title">Clean Workspace</string>
+    <string name="tip11_short">Spend 5 minutes tidying your desk.</string>
+    <string name="tip11_full">A cluttered desk leads to a cluttered mind. A clean space helps you focus on the task at hand.</string>
+
+    <string name="tip12_title">Stretch</string>
+    <string name="tip12_short">Do a quick full-body stretch.</string>
+    <string name="tip12_full">Stretching improves flexibility and releases muscle tension accumulated from sitting or standing too long.</string>
+
+    <string name="tip13_title">No Caffeine Late</string>
+    <string name="tip13_short">Avoid coffee after 2 PM.</string>
+    <string name="tip13_full">Caffeine stays in your system for hours. Cutting it off early ensures better sleep quality at night.</string>
+
+    <string name="tip14_title">Learn a Word</string>
+    <string name="tip14_short">Learn one new foreign word.</string>
+    <string name="tip14_full">Learning new words keeps your brain sharp and helps you build a consistent learning habit.</string>
+
+    <string name="tip15_title">Meditation</string>
+    <string name="tip15_short">Sit in silence for 5 minutes.</string>
+    <string name="tip15_full">Quiet time helps you process your thoughts and emotions, leading to better mental clarity.</string>
+
+    <string name="tip16_title">Fruit Day</string>
+    <string name="tip16_short">Eat an apple or a banana.</string>
+    <string name="tip16_full">Natural fiber and vitamins are essential for your digestion and overall energy levels.</string>
+
+    <string name="tip17_title">Desk Break</string>
+    <string name="tip17_short">Stand up every 45 minutes.</string>
+    <string name="tip17_full">Frequent breaks prevent physical fatigue and help maintain high levels of concentration.</string>
+
+    <string name="tip18_title">Compliment</string>
+    <string name="tip18_short">Give someone a sincere compliment.</string>
+    <string name="tip18_full">Making someone else feel good also boosts your own happiness and strengthens your social connections.</string>
+
+    <string name="tip19_title">Evening Walk</string>
+    <string name="tip19_short">Walk for 10 minutes before bed.</string>
+    <string name="tip19_full">A light evening stroll helps your body transition into a restful state for better sleep.</string>
+
+    <string name="tip20_title">Vegetables</string>
+    <string name="tip20_short">Add a salad to your dinner.</string>
+    <string name="tip20_full">Green vegetables are packed with nutrients that help your body recover and stay healthy.</string>
+
+    <string name="tip21_title">Journaling</string>
+    <string name="tip21_short">Write down your thoughts.</string>
+    <string name="tip21_full">Journaling is a great way to track your progress and clear your mind of worries.</string>
+
+    <string name="tip22_title">Tea Time</string>
+    <string name="tip22_short">Drink herbal tea instead of coffee.</string>
+    <string name="tip22_full">Herbal teas like chamomile or mint are soothing and help reduce stress levels.</string>
+
+    <string name="tip23_title">New Recipe</string>
+    <string name="tip23_short">Cook something simple but new.</string>
+    <string name="tip23_full">Experimenting in the kitchen is a creative process that rewards you with a healthy meal.</string>
+
+    <string name="tip24_title">Declutter</string>
+    <string name="tip24_short">Throw away 3 unnecessary things.</string>
+    <string name="tip24_full">Removing physical clutter often helps remove mental clutter as well.</string>
+
+    <string name="tip25_title">No Sugar</string>
+    <string name="tip25_short">Try one day without added sugar.</string>
+    <string name="tip25_full">You will notice a more stable energy level and improved taste buds after just one day.</string>
+
+    <string name="tip26_title">Sunlight</string>
+    <string name="tip26_short">Get 10 minutes of sunlight.</string>
+    <string name="tip26_full">Sunlight is the best source of Vitamin D, which is crucial for your bone health and mood.</string>
+
+    <string name="tip27_title">Music</string>
+    <string name="tip27_short">Listen to your favorite album.</string>
+    <string name="tip27_full">Music has a powerful effect on our emotions and can instantly change your state of mind.</string>
+
+    <string name="tip28_title">Self-Reflection</string>
+    <string name="tip28_short">Think about your achievements.</string>
+    <string name="tip28_full">Take a moment to realize how far you have come this month. Celebrate your progress!</string>
+
+    <string name="tip29_title">Sleep Prep</string>
+    <string name="tip29_short">Go to bed 30 minutes earlier.</string>
+    <string name="tip29_full">Extra sleep improves cognitive function and helps your body repair itself more effectively.</string>
+
+    <string name="tip30_title">Final Review</string>
+    <string name="tip30_short">Plan your next 30 days!</string>
+    <string name="tip30_full">Consistency is key. Use what you learned this month to build an even better routine for the future.</string>
+</resources>
